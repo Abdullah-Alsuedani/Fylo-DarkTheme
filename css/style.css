@@ -520,6 +520,7 @@ ul{
 }
 .footer .content .links li a{
     color: var(--cyan);
+    transition: 0.3s;
 }
 .footer .content .links li a:hover{
     color: #fff;

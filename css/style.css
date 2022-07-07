@@ -521,6 +521,9 @@ ul{
 .footer .content .links li a{
     color: var(--cyan);
 }
+.footer .content .links li a:hover{
+    color: #fff;
+}
 .footer .content .social{
     display: flex;
 }
